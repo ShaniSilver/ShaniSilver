@@ -1,4 +1,4 @@
-<h1>Hi, I'm Shani! (nickname: Shawn) <br/><a href="https://github.com/ShaniSilver">IT Business Analyst</a>, <a href="https://www.linkedin.com/in/ShaniSilver/">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/ShaniSilver/">AI Enthusiast</a>
+<h1>Hi, I'm Shani! (nickname: Shawn) <br/><a href="https://github.com/ShaniSilver">IT Business Analyst</a>, <a href="https://www.linkedin.com/in/ShaniSilver/">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/ShaniSilver/">AI</a>
 
 <a href="https://linkedin.com/in/shanisilver/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
