@@ -8,14 +8,25 @@ Thank you for visiting. I'm an IT and Cybersecurity professional with 15 years o
 
 ## Skills
 
+### Detection & Response
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/ShaniSilver/Detection-Lab">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/ShaniSilver/Detection-Lab">Detection Lab</a>|
+| Sentinel, Failed RDP to IP Geolocation Information     | <a href="https://github.com/ShaniSilver/Sentinel-Lab">Sentinel Lab</a>|
+| Log-based incident detection (Python/SQL/Linux) | <a href="https://github.com/ShaniSilver/security-log-analyzer">Security Log Analyzer</a>|
+
+### Governance & Ops
+
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | API creation using Python                     | <a href="https://github.com/ShaniSilver/API-Creation/blob/main/README.md">API Build</a>|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/ShaniSilver/Detection-Lab">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/ShaniSilver/Detection-Lab">Detection Lab</a>|
 | Active Directory example                      | <a href="https://github.com/ShaniSilver/Active-Directory-Lab/tree/main">Active Directory Lab</a>|
-| Sentinel, Failed RDP to IP Geolocation Information     | <a href="https://github.com/ShaniSilver/Sentinel-Lab">Sentinel Lab</a>|
 | Powershell JWipe - Disk Sanitization | <a href="https://github.com/ShaniSilver/Jwipe.PowerShell">JWipe-DiskSanitization</a>|
+| IAM access review and segregation of duties | <a href="https://github.com/ShaniSilver/iam-access-review">IAM Access Review</a>|
+| Linux system administration and fleet auditing | <a href="https://github.com/ShaniSilver/sysadmin-toolkit">Sysadmin Toolkit</a>|
+| Vulnerability risk assessment (CVSS-based) | <a href="https://github.com/ShaniSilver/secplus-risk-assessor">Security+ Risk Assessor</a>|
 
 ## Tools
 
@@ -63,11 +74,13 @@ Thank you for visiting. I'm an IT and Cybersecurity professional with 15 years o
 - <a href="https://github.com/ShaniSilver/Detection-Lab">Detection Lab</a>
 - <a href="https://github.com/ShaniSilver/Active-Directory-Lab/tree/main">Active Directory Lab</a>
 - <a href="https://github.com/ShaniSilver/Jwipe.PowerShell">JWipe-DiskSanitization</a>
+- <a href="https://github.com/ShaniSilver/security-log-analyzer">Security Log Analyzer</a>
+- <a href="https://github.com/ShaniSilver/iam-access-review">IAM Access Review</a>
+- <a href="https://github.com/ShaniSilver/sysadmin-toolkit">Sysadmin Toolkit</a>
+- <a href="https://github.com/ShaniSilver/secplus-risk-assessor">Security+ Risk Assessor</a>
 
 <h2>📺 Popular YouTube Videos</h2>
 
 - [I keep up to date daily listening to the Cyberwire Daily podcast](https://www.youtube.com/watch?v=SRL9k4pA99U&list=PL7JW9Q3mhniRi171QwPwnWzLEsB8pkGLJ)
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-
-
