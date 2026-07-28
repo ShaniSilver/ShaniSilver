@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Thank you for visiting. I'm an IT and Cybersecurity professional with ~15 years of experience spanning enterprise IT operations, IAM, and vulnerability management. My background bridges business applications (SAP, ServiceNow, Salesforce) with hands-on security engineering this portfolio includes projects covering log-based incident detection, access governance and segregation of duties, Linux system hardening, and risk-based vulnerability prioritization, leveraging technical expertise and problem-solving skills to tackle complex challenges and deliver meaningful impact.
+Thank you for visiting. I'm an IT and Cybersecurity professional with 15 years of experience spanning enterprise IT operations, IAM, and vulnerability management. My background bridges business applications (SAP, ServiceNow, Salesforce) with hands-on security engineering this portfolio includes projects covering log-based incident detection, access governance and segregation of duties, Linux system hardening, and risk-based vulnerability prioritization, leveraging technical expertise and problem-solving skills to tackle complex challenges and deliver meaningful impact.
 
 ## Skills
 
